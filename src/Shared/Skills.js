@@ -1,0 +1,76 @@
+export const SKILLS=[
+    {
+        id:0,
+        name:"Css",
+        level:"expert",
+        percentage:75,
+        category:"Technical"
+    },
+    {
+        id:1,
+        name:"Html",
+        level:"expert",
+        percentage:85,
+        category:"Technical"
+    },
+    {
+        id:2,
+        name:"React Js",
+        level:"expert",
+        percentage:79,
+        category:"Technical"
+    }
+    ,
+    {
+        id:3,
+        name:"Node Js",
+        level:"expert",
+        percentage:81,
+        category:"Technical"
+    },
+    {
+        id:4,
+        name:"Express Js",
+        level:"expert",
+        percentage:71,
+        category:"Technical"
+    },
+    {
+        id:5,
+        name:"Selenium",
+        level:"intermediate",
+        percentage:43,
+        category:"Technical"
+    },
+    {
+        id:6,
+        name:"Java",
+        level:"Beginner",
+        percentage:38,
+        category:"Technical"
+    },
+    {
+        id:7,
+        name:"Commnication",
+        percentage:85,
+        category:"professional"
+    },
+    {
+        id:8,
+        name:"Team Work",
+        percentage:75,
+        category:"professional"
+    },
+    {
+        id:9,
+        name:"Creativity",
+        percentage:60,
+        category:"professional"
+    },
+    {
+        id:10,
+        name:"Project Management",
+        percentage:76,
+        category:"professional"
+    }
+]
